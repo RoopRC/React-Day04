@@ -1,0 +1,15 @@
+*{
+  background-color:black;
+  color:aqua;
+  font-size:monospace;
+}
+.card{
+  border:5px solid yellow;
+  padding:40px;
+  width:500px;
+  margin:200px auto;
+  border-radius: 20px;
+}
+nav{
+  display: flex;
+}
