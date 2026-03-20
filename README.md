@@ -28,21 +28,23 @@ This project is a simple React application that demonstrates the **Rules of JSX*
 - Styled with CSS  
 
 ---
-
 ## 📂 Project Structure  
+
+```
 project-folder/
 │── public/
 │── src/
-│ ├── assets/
-│ │ └── react.svg
-│ ├── components/
-│ │ ├── Header.jsx
-│ │ ├── Content.jsx
-│ │ └── Footer.jsx
-│ ├── index.css
-│ ├── main.jsx
+│   ├── assets/
+│   │   └── react.svg
+│   ├── components/
+│   │   ├── Header.jsx
+│   │   ├── Content.jsx
+│   │   └── Footer.jsx
+│   ├── index.css
+│   ├── main.jsx
 │── package.json
 │── README.md
+```
 
 
 ---
